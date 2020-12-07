@@ -1,0 +1,13 @@
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.exe
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.deps.json
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.runtimeconfig.json
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.runtimeconfig.dev.json
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.dll
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.pdb
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.csprojAssemblyReference.cache
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.AssemblyInfoInputs.cache
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.AssemblyInfo.cs
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.csproj.CoreCompileInputs.cache
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.dll
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.pdb
+C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.genruntimeconfig.cache
