@@ -11,3 +11,16 @@ C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\
 C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.dll
 C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.pdb
 C:\Users\SON IFC\Desktop\C#playground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.genruntimeconfig.cache
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.exe
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.deps.json
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.runtimeconfig.json
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.runtimeconfig.dev.json
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.dll
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\bin\Debug\netcoreapp3.1\tutorial1.pdb
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.csprojAssemblyReference.cache
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.AssemblyInfoInputs.cache
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.AssemblyInfo.cs
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.csproj.CoreCompileInputs.cache
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.dll
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.pdb
+C:\Users\Yu Narukami\Desktop\CSharpPlayground\tutorial\tutorial\obj\Debug\netcoreapp3.1\tutorial1.genruntimeconfig.cache

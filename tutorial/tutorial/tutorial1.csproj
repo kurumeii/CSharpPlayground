@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Whilecondition.WhileBreak</StartupObject>
+    <StartupObject>tutorial1.learning.VongLap.Vonglapfor</StartupObject>
     <RootNamespace>tutorial1</RootNamespace>
     <AssemblyName>tutorial1</AssemblyName>
   </PropertyGroup>
