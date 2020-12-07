@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\tutorial",
+    "\\tutorial\\tutorial"
   ],
+  "SelectedNode": "\\tutorial\\tutorial.sln",
   "PreviewInSolutionExplorer": false
 }
