@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\tutorial",
-    "\\tutorial\\tutorial"
+    "\\tutorial\\tutorial",
+    "\\tutorial\\tutorial\\learning",
+    "\\tutorial\\tutorial\\learning\\VongLap"
   ],
   "SelectedNode": "\\tutorial\\tutorial.sln",
   "PreviewInSolutionExplorer": false
