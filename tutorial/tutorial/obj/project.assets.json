@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial1.csproj",
-      "projectName": "tutorial1",
-      "projectPath": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial1.csproj",
+      "projectUniqueName": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial.csproj",
+      "projectName": "tutorial",
+      "projectPath": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial.csproj",
       "packagesPath": "C:\\Users\\SON IFC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\obj\\",
       "projectStyle": "PackageReference",
