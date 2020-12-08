@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace tutorial1.learning.Whilecondition
+namespace tutorial.learning.Whilecondition
 {
     class WhileBreak2
     {

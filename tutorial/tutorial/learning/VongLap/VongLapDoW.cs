@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace tutorial1.learning.VongLap
+namespace tutorial.learning.VongLap
 {
     class VongLapDoW
     {
