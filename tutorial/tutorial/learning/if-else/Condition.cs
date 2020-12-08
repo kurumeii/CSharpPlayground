@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace tutorial1.learning.if_else
 {
-    class Condition 
+    class Condition
     {
         static void Main(string[] args)
         {

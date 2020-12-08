@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Mang2chieu.ArrayExp2</StartupObject>
+    <StartupObject>tutorial.learning.KeThua.DaHinh.PersonDemo</StartupObject>
     <RootNamespace>tutorial</RootNamespace>
     <AssemblyName>tutorial</AssemblyName>
   </PropertyGroup>

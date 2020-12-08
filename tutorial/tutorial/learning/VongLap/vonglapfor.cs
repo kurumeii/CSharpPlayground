@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace tutorial1.learning.VongLap
+namespace tutorial.learning.VongLap
 {
     class Vonglapfor
     {
@@ -10,7 +8,7 @@ namespace tutorial1.learning.VongLap
         {
             Console.WriteLine("For loop example");
 
-            for(int i =2; i <15; i += 3)
+            for (int i = 2; i < 15; i += 3)
             {
                 Console.WriteLine();
                 Console.WriteLine("Value of x = {0}", i);

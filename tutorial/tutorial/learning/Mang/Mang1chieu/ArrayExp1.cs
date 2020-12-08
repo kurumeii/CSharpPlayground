@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace tutorial1.learning.Mang
+namespace tutorial.learning.Mang
 {
     class ArrayExp1
     {
@@ -11,7 +9,7 @@ namespace tutorial1.learning.Mang
             //Cách 1:
             int[] stt = { 1, 2, 3, 4 };
             Console.WriteLine("STT = {0} \n", stt.Length);
-            for(int i =0; i<stt.Length; i++)
+            for (int i = 0; i < stt.Length; i++)
             {
                 Console.WriteLine("STT {0} = {1}", i, stt[i]);
             }
