@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yu Narukami\\Desktop\\CSharpPlayground\\tutorial\\tutorial\\tutorial1.csproj": {}
+    "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yu Narukami\\Desktop\\CSharpPlayground\\tutorial\\tutorial\\tutorial1.csproj": {
+    "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yu Narukami\\Desktop\\CSharpPlayground\\tutorial\\tutorial\\tutorial1.csproj",
+        "projectUniqueName": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial1.csproj",
         "projectName": "tutorial1",
-        "projectPath": "C:\\Users\\Yu Narukami\\Desktop\\CSharpPlayground\\tutorial\\tutorial\\tutorial1.csproj",
-        "packagesPath": "C:\\Users\\Yu Narukami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yu Narukami\\Desktop\\CSharpPlayground\\tutorial\\tutorial\\obj\\",
+        "projectPath": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\tutorial1.csproj",
+        "packagesPath": "C:\\Users\\SON IFC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SON IFC\\Desktop\\C#playground\\tutorial\\tutorial\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Yu Narukami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SON IFC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
